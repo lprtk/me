@@ -74,7 +74,9 @@ me.description()
 <a href="https://github.com/lprtk/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lprtk&theme=tokyonight&hide_border=true"></a>
 </p>
 
-
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lprtk&layout=compact&theme=vision-friendly-dark"></a>
+</p>
 
 
 
