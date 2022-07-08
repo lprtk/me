@@ -1,10 +1,10 @@
 <h1 align="center">Hello, welcome to my profile! 👋🌎</h1>
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/lprtk/count.svg"/>
-</p> 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lprtk.visitor-badge&left_color=red&right_color=green) 
+<a href="https://github.com/lprtk/pySelection/stargazers"><img alt="Github Stars" src="https://img.shields.io/github/stars/lprtk/pySelection"></a> 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lprtk.visitor-badge&left_color=red&right_color=blueviolet)
+<a href="https://github.com/lprtk/pySelection/"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a> 
+</p>
 
 
 <p align="justify">If you are curious, like me, here is a little description of me. 👀<p>
