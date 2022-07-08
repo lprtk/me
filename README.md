@@ -45,9 +45,10 @@ me.description()
 
 <a id="section03"></a> 
 ## 📈 Github stats
-<a href="https://github.com/lprtk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lprtk&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats"></a> 
-<a href="https://github.com/lprtk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lprtk&theme=tokyonight&hide_border=true" /></a>
-
+<p align="center">
+<a href="https://github.com/lprtk/github-readme-stats"><img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=lprtk&show_icons=true&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/lprtk/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lprtk&theme=tokyonight&hide_border=true"></a>
+</p>
 
 
 
