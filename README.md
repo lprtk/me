@@ -2,7 +2,7 @@
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/lprtk/count.svg"/>
-![](https://komarev.com/ghpvc/?username=lprtk&color=blueviolet&style=flat)
+![](https://komarev.com/ghpvc/?username=lprtk)
 </p> 
 
 
