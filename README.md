@@ -20,7 +20,8 @@
 <p align="justify">💻🌱 Aspiring Data Scientist, I really enjoy working with unstructured data. Here are some of the topics I find very attractive and on which I have worked: textual data analysis and modeling (NLP); sentiment analysis; early detection of diseases from medical images or prediction and prevention of diseases using Machine and Deep Learning; identification of defects in industrial parts based on images. In addition, I like to work on time series with Deep Learning to make complex predictions. In particular, I like to discover new concepts for forecasting time series such as Deep Hybrid Learning.<p>
 
 <p align="justify">Feel free to send me a message, it will be a pleasure to chat with you! 🙂📫<p>
- 
+
+<br/>
 
 <a id="section02"></a> 
 ## 👀 Little description
@@ -46,6 +47,8 @@ me = DataScientist()
 me.description()
 ```
 
+<br/>
+
 <a id="section03"></a> 
 ## 💻 Languages and tools
 
@@ -69,6 +72,8 @@ me.description()
 <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>
 </p>
 
+<br/>
+
 <a id="section04"></a> 
 ## 📈 Github stats
 
@@ -76,6 +81,3 @@ me.description()
 <a href="https://github.com/lprtk/github-readme-stats"><img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=lprtk&show_icons=true&theme=tokyonight&hide_border=true"></a>
 <a href="https://github.com/lprtk/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lprtk&theme=tokyonight&hide_border=true"></a>
 </p>
-
-
-
