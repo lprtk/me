@@ -1,5 +1,12 @@
 <h1 align="center">Hello, welcome to my profile! 👋🌎</h1>
 
+<h1 align="center">Hello, welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <p align="center"> 
 <a href="https://github.com/lprtk/me/stargazers"><img alt="Github Stars" src="https://img.shields.io/github/stars/lprtk/me"></a> 
 <a href="https://github.com/lprtk/me/"><img alt="Visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=lprtk.visitor-badge&left_color=red&right_color=blueviolet"></a> 
@@ -20,7 +27,7 @@
  
 
 <a id="section02"></a> 
-## 💻 Little description
+## 👋🌎 Little description
 ```python
 # -*- coding: utf-8 -*-
 """
@@ -44,7 +51,7 @@ me.description()
 ```
 
 <a id="section03"></a> 
-## 🛠 Languages and tools
+## 💻 Languages and tools
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -73,11 +80,6 @@ me.description()
 <a href="https://github.com/lprtk/github-readme-stats"><img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=lprtk&show_icons=true&theme=tokyonight&hide_border=true"></a>
 <a href="https://github.com/lprtk/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lprtk&theme=tokyonight&hide_border=true"></a>
 </p>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lprtk&layout=compact&theme=vision-friendly-dark"></a>
-</p>
-
 
 
 
