@@ -24,7 +24,7 @@
 ```python
 # -*- coding: utf-8 -*-
 """
-@author: Lucas Prutki
+@author: lprtk
 """
 
 class DataScientist:
