@@ -6,8 +6,11 @@
 <a href="https://github.com/lprtk/me/"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a> 
 </p>
 
+<br/>
 
 <p align="justify">If you are curious, like me, here is a little description of me. 👀<p>
+
+<br/>
 
 <a id="section01"></a> 
 ## 🤝 About Me
