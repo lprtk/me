@@ -1,8 +1,5 @@
 <h1 align="center">Hello, welcome to my profile! 👋🌎</h1>
 
-<h1 align="center">Hello, welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/></h1>
-
-
 <p align="center"> 
 <a href="https://github.com/lprtk/me/stargazers"><img alt="Github Stars" src="https://img.shields.io/github/stars/lprtk/me"></a> 
 <a href="https://github.com/lprtk/me/"><img alt="Visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=lprtk.visitor-badge&left_color=red&right_color=blueviolet"></a> 
@@ -23,7 +20,7 @@
  
 
 <a id="section02"></a> 
-## 👋🌎 Little description
+## 👀 Little description
 ```python
 # -*- coding: utf-8 -*-
 """
