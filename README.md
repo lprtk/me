@@ -1,4 +1,10 @@
-<h1 align="center">Hello, welcome to my profile! 👋🌎</h1> 
+<h1 align="center">Hello, welcome to my profile! 👋🌎</h1>
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/lprtk/count.svg"/>
+![](https://komarev.com/ghpvc/?username=lprtk&color=blueviolet&style=flat)
+</p> 
+
 
 <p align="justify">If you are curious, like me, here is a little description of me. 👀<p>
 
