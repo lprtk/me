@@ -2,8 +2,8 @@
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/lprtk/count.svg"/>
-![](https://komarev.com/ghpvc/?username=lprtk)
 </p> 
+![](https://komarev.com/ghpvc/?username=lprtk)
 
 
 <p align="justify">If you are curious, like me, here is a little description of me. 👀<p>
