@@ -3,7 +3,8 @@
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/lprtk/count.svg"/>
 </p> 
-![](https://komarev.com/ghpvc/?username=lprtk)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lprtk.visitor-badge&left_color=red&right_color=green) 
 
 
 <p align="justify">If you are curious, like me, here is a little description of me. 👀<p>
